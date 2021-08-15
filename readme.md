@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/nick-bwalley-740b80205/">
   <img align="left" alt="NickBwalley's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/nick.biiy.5/">
-  <img align="left" alt="NickBwalley's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 
 <br />
 
