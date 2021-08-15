@@ -7,10 +7,10 @@
   <img align="left" alt="NickBwalley's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/NickBwalley/">
-  <img align="left" alt="NickBwalley's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="NickBwalley's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/nick.biiy.5/">
-  <img align="left" alt="NickBwalley's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="NickBwalley's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=nickbwalley.nickbwalley)
 
