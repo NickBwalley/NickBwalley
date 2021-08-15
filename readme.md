@@ -38,8 +38,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 ```text
 Django      ███████████████████████▓░   90.53 % 
-React       ▓░░░░░░░░░░░░░░░░░░░░░░░░   50.08 % 
-JavaScript  ▓░░░░░░░░░░░░░░░░░░░░░░░░   30.27 % 
+React       ▓░░░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+JavaScript  ▓░░░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
 <!--END_SECTION:waka-->
 
