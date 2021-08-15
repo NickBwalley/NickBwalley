@@ -7,7 +7,7 @@
   <img align="left" alt="NickBwalley's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+<br/><hr/>
 
 Hi, i'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), a passionate self-taught full stack web developer and a freelance software engineer from Kenya.
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
