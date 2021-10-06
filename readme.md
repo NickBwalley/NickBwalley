@@ -40,7 +40,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <center>
 <table>
 <tr>
-<td><img width="400px" color="white" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&hide=html&layout=compact" /></td>
+<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&hide=html&layout=compact&color=black" /></td>
 <td></td>
 </tr> 
 </table>
