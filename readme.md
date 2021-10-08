@@ -16,7 +16,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/nickbwalley/nickbwalley/code.gif?raw=true" width="500" height="320" />
  
 - 🔭 I’m currently working on React and Redux
 - 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
