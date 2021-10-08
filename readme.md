@@ -17,9 +17,12 @@ I take great care in the experience, architecture, and code quality of the thing
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:nickbwalley@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+ 
+🔭 I’m currently working on React and Redux
+💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
+💬 Ask me about anything, I am happy to help :)
+😄 Pronouns: Him/his
+⚡ Fun fact: I am a polyglot. French, Spanish, Mandarin, Swahili, English. 
 
 **languages and tools:**
 
