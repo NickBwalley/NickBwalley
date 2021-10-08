@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
 - 💬 Ask me anything about coding, I am happy to help :)
 - 😄 Pronouns: Him/his
-- ⚡ Fun fact: I am a polyglot. French, Spanish, Mandarin, Swahili, English. 
+- ⚡ Fun fact: I am a polyglot and typist.  
 
 **languages and tools:**
 
