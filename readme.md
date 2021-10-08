@@ -18,11 +18,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
-🔭 I’m currently working on React and Redux <br/>
-💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
-💬 Ask me about anything, I am happy to help :)
-😄 Pronouns: Him/his
-⚡ Fun fact: I am a polyglot. French, Spanish, Mandarin, Swahili, English. 
+- 🔭 I’m currently working on React and Redux
+- 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
+- 💬 Ask me anything about coding, I am happy to help :)
+- 😄 Pronouns: Him/his
+- ⚡ Fun fact: I am a polyglot. French, Spanish, Mandarin, Swahili, English. 
 
 **languages and tools:**
 
