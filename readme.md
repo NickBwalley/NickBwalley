@@ -21,7 +21,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 🔭 I’m currently working on React and Redux
 - 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
 - 💬 Ask me anything about coding, I am happy to help :)
-- 😄 Pronouns: Him/his
+- 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I am a polyglot and typist.  
 
 **languages and tools:**
