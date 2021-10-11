@@ -10,7 +10,7 @@
 
 <br/><hr/>
 
-Hi, I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), a passionate self-taught full stack web developer and a freelance software engineer from Kenya.
+I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), a passionate self-taught full stack web developer and a freelance software engineer from Kenya.
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 I take great care in the experience, architecture, and code quality of the things I build.
 
