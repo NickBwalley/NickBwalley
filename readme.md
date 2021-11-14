@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 ### Hello Folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/NickBwalley">
@@ -23,6 +22,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me anything about coding, I am happy to help :)
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I am a polyglot and typist.  
+
+![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
 **languages and tools:**
 
