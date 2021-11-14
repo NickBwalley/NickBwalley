@@ -38,15 +38,15 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nickbwalley&show_icons=true&theme=gotham" alt="nickbwalley" />
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley)](https://git.io/streak-stats)
 
 <center>
 <table>
 <tr>
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&hide=html&layout=compact" /></td>
+<td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&hide=html&layout=compact" /></td>
 <td></td>
 </tr> 
 </table>
 </center> 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nickbwalley&show_icons=true&theme=gotham" alt="nickbwalley" />
