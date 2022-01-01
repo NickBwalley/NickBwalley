@@ -45,7 +45,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=hey:\),+NickBwalley+once+again.;A+Full+Stack+MERN+Software+Engineer..;MongoDB.;ExpressJS.;React/Redux.;NodeJS;anyway..;WELCOME+TO+MY+GITHUB+PROFILE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=hey:\),+NickBwalley+once+again.;A+Full+Stack+MERN+Software+Engineer..;MongoDB,+ExpressJS,+React/Redux,+NodeJS+(MERN);I+envisage+on+working+with+tech-giants...;Anyways...;WELCOME+TO+MY+GITHUB+PROFILE!)](https://git.io/typing-svg)
 
 <a href="https://github.com/timothylidede/github-readme-activity-graph"><img alt="NickBwalley's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NickBwalley&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
