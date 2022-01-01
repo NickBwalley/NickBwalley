@@ -47,9 +47,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE!;hey:\),+Nick+Bwalley+here...;A+Full+Stack+MERN+Software+Engineer..;MongoDB,+ExpressJS,+React/Redux,+NodeJS;I+envisage+working+with+tech-giants...;Anyways...;)](https://git.io/typing-svg)
 
-<a href="https://github.com/timothylidede/github-readme-activity-graph"><img alt="NickBwalley's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NickBwalley&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+<a href="https://github.com/NickBwalley/github-readme-activity-graph"><img alt="NickBwalley's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NickBwalley&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/NickBwalley/github-readme-stats"><img alt="Nick Bwalley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" /></a>
+  <br/>
+
+
 
 <center>
 <table>
