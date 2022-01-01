@@ -45,7 +45,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=hello folks:\),+Nick+here.;an+enthusiastic+full+stack+MERN+software+developer.;I+build+magnificent+code,+lol.;anyway..;WELCOME+TO+MY+GIT+PROFILE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=hey:\),+Dede+here.;i+write+a+bunch+of+code.;VEEERY+clean+code,+lol.;anyway..;WELCOME+TO+MY+PROFILE!)](https://git.io/typing-svg)
 
 <a href="https://github.com/timothylidede/github-readme-activity-graph"><img alt="NickBwalley's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NickBwalley&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
