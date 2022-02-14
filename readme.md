@@ -18,7 +18,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently working on a MERN-Stack Car Rental Web Application.
+- 🔭 I’m currently working on a MERN-Stack Travelling Application.
 - 🌱 I’m currently learning Laravel and Cyber Security for Networking.
 - 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
 - 💬 Ask me anything about coding, I am happy to help :)
