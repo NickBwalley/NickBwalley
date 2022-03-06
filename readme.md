@@ -19,7 +19,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 - 🔭 I’m currently working on a MERN-Stack Travelling Application.
-- 🌱 I’m currently learning Laravel and Cyber Security for Networking.
+- 🌱 I’m currently learning Laravel 8 with API Integration.
 - 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
 - 💬 Ask me anything about coding, I am happy to help :)
 - 😄 Pronouns: He/him/his
