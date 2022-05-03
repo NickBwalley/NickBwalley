@@ -18,8 +18,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently working on a MERN-Stack Travelling Application.
-- 🌱 I’m currently learning Laravel 8 with API Integration.
+- 🔭 I’m currently working on Full Stack MERN applications.
+- 🌱 I’m currently learning ReactJS and TypeScript.
 - 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
 - 💬 Ask me anything about coding, I am happy to help :)
 - 😄 Pronouns: He/him/his
