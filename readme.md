@@ -18,8 +18,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently working on Full Stack MERN applications.
-- 🌱 I’m currently learning ReactJS and TypeScript.
+- 🔭 I’m currently working on building a Full Stack MERN social locator application.
+- 🌱 I’m currently learning MERN STACK and CSS Advanced.
 - 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
 - 💬 Ask me anything about coding, I am happy to help :)
 - 😄 Pronouns: He/him/his
