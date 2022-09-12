@@ -27,8 +27,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="left" alt="NickBwalley's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<div>
+  
 <br/><br/><br/>
-
+  
+</div>
 ## Technologies which I teach and use:
 
 ### Frontend Technologies
