@@ -1,7 +1,6 @@
 ### Hello Folks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-<br/><hr/>
+<hr/>
 
 I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), a passionate self-taught full stack web developer and a freelance software engineer from Kenya.
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
@@ -28,21 +27,49 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="left" alt="NickBwalley's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
-**languages and tools:**
+## Technologies which I use:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### Frontend Technologies
+
+<div>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
+  <img src ="./images/sass.svg" alt="Sass logo" width="4%" title='Sass'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
+  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
+  <img src ="./images/redux.svg" alt="redux logo" width="4%" title='Redux'/>
+<div> 
+
+### Backend Technologies
+
+<div>
+  <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
+  <img src ="./images/express.svg" alt="express logo" width="5%" title='Express'/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
+  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
+  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
+  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
+  <img src ="./images/django.svg" alt="Django logo" width="5%" title='Django'/>
+</div>
+
+### Upcoming challenges
+  - React Native
+  - Typescript
+  - NextJS
+
+### Tools
+
+<div>
+  <img src ="./images/figma.svg" alt="Figma logo" width="5%" title='Figma'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
+  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+  <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
+  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
+</div>
 
 <p align="center">
     <a href="https://github.com/NickBwalley/github-readme-streak-stats">
@@ -51,7 +78,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE!;hey:\),+Nick+Bwalley+here...;A+Full+Stack+MERN+Software+Engineer..;MongoDB,+ExpressJS,+React/Redux,+NodeJS;I+envisage+working+with+tech-giants...;Anyways...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE!;hey:\),+Nick+Bwalley+here...;A+Full+Stack+MERN+Software+Engineer..;MongoDB,+ExpressJS,+React/Redux,+NodeJS;I+really+enjoy+building+elegant+interfaces+and+best+practices+with+MERN...;Anyways...;)](https://git.io/typing-svg)
 
 <a href="https://github.com/NickBwalley/github-readme-activity-graph"><img alt="NickBwalley's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NickBwalley&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
