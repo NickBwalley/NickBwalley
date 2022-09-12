@@ -27,12 +27,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
-<p align="center">
-    <a href="https://github.com/NickBwalley/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nick Bwalley's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
-    </a>
-</p>
-
 **languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
@@ -46,6 +40,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<p align="center">
+    <a href="https://github.com/NickBwalley/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nick Bwalley's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
+    </a>
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE!;hey:\),+Nick+Bwalley+here...;A+Full+Stack+MERN+Software+Engineer..;MongoDB,+ExpressJS,+React/Redux,+NodeJS;I+envisage+working+with+tech-giants...;Anyways...;)](https://git.io/typing-svg)
 
