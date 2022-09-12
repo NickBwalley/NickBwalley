@@ -72,6 +72,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
 </div>
 
+<br/>
+
 <p align="center">
     <a href="https://github.com/NickBwalley/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nick Bwalley's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
@@ -79,7 +81,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE!;hey:\),+Nick+Bwalley+here...;A+Full+Stack+MERN+Software+Engineer..;MongoDB,+ExpressJS,+React/Redux,+NodeJS;I+really+enjoy+building+elegant+interfaces+and+best+practices+with+MERN...;Anyways...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE!;hey:\),+Nick+Bwalley+here...;A+Full+Stack+MERN+Software+Engineer..;MongoDB,+ExpressJS,+React/Redux,+NodeJS;My+dream+is+building+elegant+interfaces;and+best+practices+with+MERN...;Lets+dive+in...;)](https://git.io/typing-svg)
 
 <a href="https://github.com/NickBwalley/github-readme-activity-graph"><img alt="NickBwalley's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NickBwalley&bg_color=1c041c&color=de34eb&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
 
