@@ -26,12 +26,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://www.linkedin.com/in/nick-bwalley-740b80205/">
   <img align="left" alt="NickBwalley's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<div>
   
 <br/><br/><br/>
   
-</div>
 ## Technologies which I teach and use:
 
 ### Frontend Technologies
@@ -43,10 +40,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img src ="./images/sass.svg" alt="Sass logo" width="4%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
   <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
-  <img src ="./images/d3.svg" alt="D3 logo" width="4%" title='D3.js'/>
   <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="4%" title='Redux'/>
-  <img src ="./images/gatsby.svg" alt="Gatsby logo" width="4%" title='Gatsby'/>
 <div> 
 
 ### Backend Technologies
@@ -58,16 +53,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/flask.svg" alt="Flask logo" width="5%" title='Flask'/>
   <img src ="./images/django.svg" alt="Django logo" width="5%" title='Django'/>
 </div>
 
 ### Upcoming challenges
-  - 30DaysOfTypeScript
-  - 30DaysOfSQL
-  - 100DaysOfWeb
-  - 10DaysOfBashing
-
+  - React Native
+  - Typescript
+  - NextJS
+  
 ### Tools
 
 <div>
