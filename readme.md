@@ -29,7 +29,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 <br/><br/><br/>
   
-## Technologies which I teach and use:
+## Technologies which I use:
 
 ### Frontend Technologies
 
