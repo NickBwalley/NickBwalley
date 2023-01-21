@@ -2,17 +2,17 @@
 
 <hr/>
 
-My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), and I am a passionate and highly skilled software engineer based in Kenya. I specialize in the M.E.R.N. STACK (MongoDB, Express.js, React, and Node.js) and also have a particular interest in the field of cyber security. I possess a wealth of knowledge and experience in the field, having honed my skills through self-study and practical application. I am a firm believer in the power of open-source projects and collaboration with teams, as I believe it leads to the development of innovative and effective solutions. I am always seeking new opportunities to apply my expertise and welcome the opportunity to work with like-minded individuals. Please feel free to peruse my portfolio of projects and do not hesitate to contact me for further information or collaboration.
+My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), and I am a passionate and highly skilled software engineer based in Kenya. I specialize in the M.E.R.N.(MongoDB, Express.js, React, and Node.js) stack, and also have a particular interest in the field of cyber security. I possess a wealth of knowledge and experience in the field, having honed my skills through self-study and practical application. I am a firm believer in the power of open-source projects and collaboration with teams, as I believe it leads to the development of innovative and effective solutions. I am always seeking new opportunities to apply my expertise and welcome the opportunity to work with like-minded individuals. Please feel free to peruse my portfolio of projects and do not hesitate to contact me for further information or collaboration.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently building a Full Stack MERN mini-projects.
-- 🌱 I’m currently learning Cyber Security and sharpening my skills in M.E.R.N. Stack.
+- 🔭 I’m currently building Realtime Chat app with React.
+- 🌱 I’m currently learning React-Typescript and Cyber Security.
 - 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
 - 💬 Ask me anything about coding, I am happy to help :)
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I am a Polyglot:{English, Swahili, French, Spanish} and typist.  
+- ⚡ Fun fact: I am a Polyglot and typist.  
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
