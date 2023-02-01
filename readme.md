@@ -7,7 +7,7 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently building a Fullstack E-Commerce Website with M.E.R.N. 
+- 🔭 I’m currently building a portfolio website using M.E.R.N.
 - 🌱 I’m currently learning React-Typescript and Cyber Security.
 - 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
 - 💬 Ask me anything about coding, I am happy to help :)
