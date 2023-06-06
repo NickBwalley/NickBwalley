@@ -8,11 +8,11 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), 
 
 
 - 🔭 I’m currently building a portfolio website using M.E.R.N.
-- 🌱 I’m currently learning React-Typescript and Cyber Security.
-- 💼 How to reach me: [email](mailto:nickbwalley@gmail.com) :)
+- 🌱 I’m currently learning Ethical Hacking and Cyber Security.
+- 💼 How to reach me: [email](mailto:nickbwalley@gmail.com or nicholas.bwalley@strathmore.edu) :)
 - 💬 Ask me anything about coding, I am happy to help :)
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I am a Polyglot and typist.  
+- ⚡ Fun fact: I am a Polyglot, Typist and a "Gym Rat".  
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
