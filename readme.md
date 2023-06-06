@@ -7,7 +7,7 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently building a portfolio website using M.E.R.N.
+- 🔭 I’m currently building M.E.R.N Stack Applications.
 - 🌱 I’m currently learning Ethical Hacking and Cyber Security.
 - 💼 How to reach me: [email](mailto: nickbwalley@gmail.com or nicholas.bwalley@strathmore.edu)
 - 💬 Ask me anything about coding, I am happy to help :)
