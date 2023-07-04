@@ -7,10 +7,10 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
-- 🔭 I’m currently building M.E.R.N Stack Applications.
+- 🔭 I’m currently studying BBIT final year student.
 - 🌱 I’m currently learning Ethical Hacking and Cyber Security.
 - 💼 How to reach me: [email](mailto: nickbwalley@gmail.com or nicholas.bwalley@strathmore.edu)
-- 💬 Ask me anything about coding, I am happy to help :)
+- 💬 Ask me anything about coding, or CyberSec I am happy to help :)
 - 😄 Pronouns: He/him/his.
 - ⚡ Fun fact: I am a Polyglot, Typist and a "Gym Rat".  
 
