@@ -6,7 +6,7 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-<p align="left"> 🔭 I’m currently studying BBIT at Strathmore University, final year student <br> 🌱 I’m currently learning Cyber Security with ISC2. <br> 💼 How to reach me: [email](mailto: nickbwalley@gmail.com or nicholas.bwalley@strathmore.edu) <br> 🎯 Goals: Becoming a CyberSec Guru and Coder. <br> 💬 Ask me anything about coding, or CyberSec I am happy to help :) <br> ⚡ Fun fact: I am a Polyglot, Typist and a "Gym Rat".   
+<p align="left"> 🔭 I’m a BBIT student at Strathmore University, final year student. <br> 🌱 I’m currently learning Cyber Security with ISC2. <br> 💼 How to reach me: [email](mailto: nickbwalley@gmail.com or nicholas.bwalley@strathmore.edu) <br> 🎯 Goals: Becoming a CyberSec Guru and Coder. <br> 💬 Ask me anything about coding, or CyberSec I am happy to help :) <br> ⚡ Fun fact: I am a Polyglot, Typist and a "Gym Rat".   
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
