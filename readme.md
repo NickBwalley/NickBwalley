@@ -4,7 +4,7 @@
 
 My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), and I am a passionate and highly skilled software engineer based in Kenya. I specialize in the M.E.R.N.(MongoDB, Express.js, React, and Node.js) stack, and also have a particular interest in the field of cyber security and Ethical Hacking. I possess a wealth of knowledge and experience in the field, having honed my skills through self-study and practical application over the past years. I am a firm believer in the power of continuous development, open-source projects and collaboration with teams, as I believe it leads to the development of innovative and effective solutions. I am always seeking new opportunities to apply my expertise and welcome the opportunity to work with like-minded individuals. Please feel free to peruse my GitHub Repository of projects and please do not hesitate to contact me for further information or collaboration.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
 <p align="left"> 🔭 I’m currently studying BBIT at Strathmore, final year student <br> 🌱 I’m currently learning Cyber Security with ISC2. <br> 💼 How to reach me: [email](mailto: nickbwalley@gmail.com or nicholas.bwalley@strathmore.edu) <br> 🎯 Goals: Becoming a CyberSec Guru and Coder. <br> 💬 Ask me anything about coding, or CyberSec I am happy to help :) <br> ⚡ Fun fact: I am a Polyglot, Typist and a "Gym Rat".   
 
