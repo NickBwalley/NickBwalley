@@ -70,12 +70,9 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), 
     </a>
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE!;hey:\),+Nick+Bwalley+here...;A+Full+Stack+MERN+Software+Engineer..;MongoDB,+ExpressJS,+React/Redux,+NodeJS;My+dream+is+building+elegant+interfaces;and+best+practices+with+MERN...;Lets+dive+in...;)](https://git.io/typing-svg)
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/NickBwalley/github-readme-stats"><img alt="Nick Bwalley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" /></a>
   <br/>
 
-<p align="center"> 
+<p align="right"> 
   <img src="https://github-readme-stats.vercel.app/api?username=nickbwalley&show_icons=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" alt="nickbwalley" />
