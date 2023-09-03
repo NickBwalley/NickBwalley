@@ -72,7 +72,5 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-740b80205/), 
 
 <p align="left">
   <a href="https://github.com/NickBwalley/github-readme-stats"><img alt="Nick Bwalley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" /></a>
-  <br/>
-
-<p align="right"> 
   <img src="https://github-readme-stats.vercel.app/api?username=nickbwalley&show_icons=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" alt="nickbwalley" />
+  
