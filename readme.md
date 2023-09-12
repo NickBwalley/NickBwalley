@@ -72,7 +72,7 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a
 
 <br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-GitHub-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-GitHub-NickBwalley&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p align="center">
     <a href="https://github.com/NickBwalley/github-readme-streak-stats">
