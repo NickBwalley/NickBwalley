@@ -77,6 +77,9 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nick Bwalley's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
     </a>
 </p>
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=NickBwalley&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+</p>
 
 <p align="left">
   <a href="https://github.com/NickBwalley/github-readme-stats"><img alt="Nick Bwalley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" /></a>
