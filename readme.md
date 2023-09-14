@@ -6,7 +6,7 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-<p align="left"> 🔭 I’m persuing BBIT at Strathmore University, final year student | Cyber Security Internship with Senselearner <br> 🌱 I’m currently learning Cyber Security with ISC2. <br> 💼 How to reach me (via e-mail): <br> <a href="mailto:user@example.com">nickbiiybwalley@gmail.com</a> or <br/> <a href="mailto:user@example.com">nickbwalley@gmail.com</a> or <br> <a href="mailto:user@example.com">nicholas.bwalley@strathmore.edu</a> <br> 🎯 Goals: {(CISSP, HTB, TryHackMe)} <br> 💬 Ask me anything about coding, or CyberSec I am happy to help :) <br> ⚡ Fun fact: I am a Polyglot, Typist and a "Gym Rat".   
+<p align="left"> 🔭 I’m persuing BBIT at Strathmore University, final year student. <br> 🌱 I’m also persuing a Cyber Security Internship program with Senselearner and ISC2. <br> 💼 How to reach me (via e-mail): <br> <a href="mailto:user@example.com">nickbiiybwalley@gmail.com</a> or <br/> <a href="mailto:user@example.com">nickbwalley@gmail.com</a> or <br> <a href="mailto:user@example.com">nicholas.bwalley@strathmore.edu</a> <br> 🎯 Goals: {(CISSP, HTB, TryHackMe)} <br> 💬 Ask me anything about coding, or CyberSec I am happy to help :) <br> ⚡ Fun fact: I am a Polyglot, Typist and a "Gym Rat".   
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
