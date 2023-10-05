@@ -27,7 +27,7 @@ My name is [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a
   
 <br/>
   
-## Technologies which I use:
+## Technologies that I use:
 
 ### Frontend Technologies
 
