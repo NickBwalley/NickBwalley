@@ -6,7 +6,7 @@ I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a passio
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-<p align="left"> 👨‍🎓 I currently graduated with a First Class Honors in Bachelor's in Business Information Technology. <br> 🌱 I really thrive in Collaborative Environments. 👨‍👩‍👦‍👦  <br> 💼 How to reach me (via e-mail): <br> <a href="mailto:user@example.com">nickbiiybwalley@gmail.com</a> or <br/> <a href="mailto:user@example.com">nickbwalley@gmail.com</a> or <br> <a href="mailto:user@example.com">nicholas.bwalley@strathmore.edu</a> <br> 🎯 Goals: To Come up with an application that solves peoples problems and create a legacy. <br> 💬 Ask me anything about full-stack dev or coding I am happy to help 😉😉 <br> ⚡ Fun fact: I am a Polyglot 🗣, Typist 👨‍💻 and a "Gym Rat" 🏋.   
+<p align="left"> 👨‍🎓 I recently graduated with a First Class Honors in Bachelor's in Business Information Technology. <br> 🌱 I really thrive in Collaborative Environments. 👨‍👩‍👦‍👦  <br> 💼 How to reach me (via e-mail): <br> <a href="mailto:user@example.com">nickbiiybwalley@gmail.com</a> or <br/> <a href="mailto:user@example.com">nickbwalley@gmail.com</a> or <br> <a href="mailto:user@example.com">nicholas.bwalley@strathmore.edu</a> <br> 🎯 Goals: To Come up with an application that solves peoples problems and create a legacy. <br> 💬 Ask me anything about full-stack dev or coding I am happy to help 😉😉 <br> ⚡ Fun fact: I am a Polyglot 🗣, Typist 👨‍💻 and a "Gym Rat" 🏋.   
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
