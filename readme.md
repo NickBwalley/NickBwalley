@@ -37,7 +37,7 @@ I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a passio
   <img src ="./images/tailwindcss.svg" alt="Tailwind logo" width="12%" title='Taiilwindcss'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES7 logo" width="6%" title='ES7'/>
+  <img src ="./images/es7.svg" alt="ES7 logo" width="6%" title='ES7'/>
   <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="6%" title='Redux'/>
 <div> 
@@ -45,13 +45,13 @@ I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a passio
 ### Backend Technologies
 
 <div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="5%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
-  <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
-  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/django.svg" alt="Django logo" width="5%" title='Django'/>
+  <img src ="./images/nodejs.svg" alt="Node logo" width="6%" title='Nodejs'/>
+  <img src ="./images/express.svg" alt="express logo" color="#008000" width="6%" title='Express'/>
+  <img src ="./images/mongodb.svg" alt="MongoDB logo" width="6%" title='MongoDB'/>
+  <img src ="./images/mysql.svg" alt="mysql logo" width="6%" title='MYSQL'/>
+  <img src ="./images/sqlite.svg" alt="sqlite logo" width="6%" title='sqlite'/>
+  <img src ="./images/python.svg" alt="Python logo" width="6%" title='Python'/>
+  <img src ="./images/django.svg" alt="Django logo" width="6%" title='Django'/>
 </div>
 
 ### Upcoming challenges
