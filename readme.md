@@ -32,14 +32,14 @@ I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a passio
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="6%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="6%" title='CSS3'/>
-  <img src ="./images/tailwindcss.svg" alt="Tailwind logo" width="12%" title='Taiilwindcss'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="6%" title='Sass'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="6%" title='ES6'/>
-  <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
-  <img src ="./images/redux.svg" alt="redux logo" width="6%" title='Redux'/>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
+  <img src ="./images/tailwindcss.svg" alt="Tailwind logo" width="6%" title='Taiilwindcss'/>
+  <img src ="./images/sass.svg" alt="Sass logo" width="4%" title='Sass'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
+  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
+  <img src ="./images/redux.svg" alt="redux logo" width="4%" title='Redux'/>
 <div> 
 
 ### Backend Technologies
