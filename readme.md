@@ -19,7 +19,7 @@ I am deeply committed to continuous learning, collaboration, and contributing to
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://www.tiktok.com/@NickBwalley">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" width="52" height="40" alt="tiktok logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="52" height="40" alt="tiktok logo" />
   </a>
   <a href="https://www.instagram.com/nickbwalley/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
