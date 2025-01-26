@@ -18,8 +18,8 @@ I am deeply committed to continuous learning, collaboration, and contributing to
   <a href="https://www.linkedin.com/in/nick-bwalley-49220a269" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://www.tiktok.com/@NickBwalley">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tiktok/default.svg" width="52" height="40" alt="tiktok logo" />
+  <a href="https://www.twitter.com/@NickBwalley">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="tiktok logo" />
   </a>
   <a href="https://www.instagram.com/nickbwalley/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
