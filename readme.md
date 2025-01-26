@@ -36,7 +36,7 @@ I am deeply committed to continuous learning, collaboration, and contributing to
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="./images/tailwindcss.svg" alt="Tailwind logo" width="6%" title='Taiilwindcss'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="4%" title='Sass'/>
