@@ -65,12 +65,6 @@ I am deeply committed to continuous learning, collaboration, and contributing to
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="oracle" width="6%" title='oracle'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite logo" width="6%" title='sqlite'/>
 </div>
-
-### Upcoming challenges
-  - Typescript
-  - NextJS
-  - Svelte
-  - Solid
   
 ### Tools
 
