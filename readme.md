@@ -55,6 +55,8 @@ I am deeply committed to continuous learning, collaboration, and contributing to
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP logo" width="6%" title='PHP'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel logo" width="6%" title='Laravel'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker logo" width="6%" title='Docker'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman logo" width="6%" title='Postman'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="cpp logo" width="6%" title='cpp'/>
 </div>
 
 ### DATABASES
@@ -66,15 +68,14 @@ I am deeply committed to continuous learning, collaboration, and contributing to
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite logo" width="6%" title='sqlite'/>
 </div>
   
-### Tools
+### OTHER TOOLS
 
 <div>
-  <img src ="./images/figma.svg" alt="Figma logo" width="6%" title='Figma'/>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="6%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="6%" title='Git'/>
-  <img src ="./images/eslint.svg" alt="ESLint logo" width="6%" title='ESLint'/>
-  <img src ="./images/webpack.svg" alt="Webpack logo" width="6%" title='Webpack'/>
-  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="6%" title='Nodemon'/> 
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="jupyter notebook" width="6%" title='notebook'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="mysql logo" width="6%" title='mysql'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git logo" width="6%" title='git'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub logo" width="6%" title='GitHub'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker logo" width="6%" title='Docker'/>
 </div>
 
 <br/>
