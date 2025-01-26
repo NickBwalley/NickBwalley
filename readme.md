@@ -31,7 +31,7 @@ I am deeply committed to continuous learning, collaboration, and contributing to
   
 <br/>
   
-## Technologies that I use:
+## Technologies I have used:
 
 ### FRONTEND
 
