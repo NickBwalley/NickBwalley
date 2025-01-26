@@ -33,7 +33,7 @@ I am deeply committed to continuous learning, collaboration, and contributing to
   
 ## Technologies that I use:
 
-### Frontend Technologies
+### FRONTEND
 
 <div>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5 logo" width="4%" title='HTML5'/>
@@ -46,7 +46,7 @@ I am deeply committed to continuous learning, collaboration, and contributing to
   
 <div> 
 
-### Backend Technologies
+### BACKEND
 
 <div>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node logo" width="6%" title='Nodejs'/>
