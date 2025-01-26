@@ -52,6 +52,7 @@ I am deeply committed to continuous learning, collaboration, and contributing to
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node logo" width="6%" title='Nodejs'/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="express logo" width="6%" title='ExpressJS' />
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python logo" width="6%" title='Python'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java logo" width="6%" title='JAVA'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP logo" width="6%" title='PHP'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel logo" width="6%" title='Laravel'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker logo" width="6%" title='Docker'/>
