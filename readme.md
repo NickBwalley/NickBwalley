@@ -6,7 +6,7 @@ I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a Full-S
 
 Currently, I am advancing my expertise by integrating Artificial Intelligence into legacy systems and modern web applications. By leveraging cutting-edge AI technologies like Large Language Models (LLMs), I develop innovative solutions such as intelligent chatbots and automated workflows to streamline business operations and enhance efficiency.
 
-I am deeply committed to continuous learning, collaboration, and contributing to open-source development. I thrive in environments that encourage growth, innovation, and teamwork. Feel free to explore my GitHub projects, which showcase my journey and ongoing work. I’m always excited to connect with like-minded individuals—let’s collaborate or discuss opportunities to create something extraordinary!
+I am deeply committed to continuous learning, collaboration, and contributing to open-source development. I thrive in environments that encourage growth, innovation, and teamwork. Feel free to explore my GitHub projects, which showcase my journey and ongoing work. I’m always excited to connect with like-minded individuals and open to collaborate or discuss opportunities to create something extraordinary!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
