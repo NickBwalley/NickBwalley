@@ -77,6 +77,11 @@ I am deeply committed to continuous learning, collaboration, and contributing to
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git logo" width="6%" title='git'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub logo" width="6%" title='GitHub'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker logo" width="6%" title='Docker'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="K8S logo" width="6%" title='Kubernetes'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux logo" width="6%" title='Linux'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim logo" width="6%" title='Vim'/>
+  
+  
 </div>
 
 <br/>
