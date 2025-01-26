@@ -72,7 +72,7 @@ I am deeply committed to continuous learning, collaboration, and contributing to
 
 <div>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="jupyter notebook" width="6%" title='notebook'/>
-  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="mysql logo" width="6%" title='mysql'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="aws logo" width="6%" title='aws'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git logo" width="6%" title='git'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub logo" width="6%" title='GitHub'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker logo" width="6%" title='Docker'/>
