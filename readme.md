@@ -2,7 +2,11 @@
 
 <hr/>
 
-I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a passionate and skilled full-stack software engineer. My interest lies in developing real-world applications by utilizing cutting-edge technologies like the popular M.E.R.N.(MongoDB, Express.js, React, and Node.js) STACK . I possess a wealth of knowledge and experience in this field, having honed my skills through self-study and practical application over the past years. I'm a firm believer in the power of continuous development, open-source projects and collaboration with teams, as I believe it leads to the development of innovative and effective solutions. I am always seeking new opportunities to apply my expertise and welcome the opportunity to work with like-minded individuals. In addition, I have a strong interest in the CyberSecurity Domain.  Please feel free to peruse my GitHub Repository of projects and please do not hesitate to contact me for further information or collaborations.
+I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), a Full-Stack Software Engineer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) with a passion for developing solutions that solve real-world problems. My focus lies in creating impactful applications that address practical challenges and deliver meaningful results.
+
+Currently, I am advancing my expertise by integrating Artificial Intelligence into legacy systems and modern web applications. By leveraging cutting-edge AI technologies like Large Language Models (LLMs), I develop innovative solutions such as intelligent chatbots and automated workflows to streamline business operations and enhance efficiency.
+
+I am deeply committed to continuous learning, collaboration, and contributing to open-source development. I thrive in environments that encourage growth, innovation, and teamwork. Feel free to explore my GitHub projects, which showcase my journey and ongoing work. I’m always excited to connect with like-minded individuals—let’s collaborate or discuss opportunities to create something extraordinary!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
