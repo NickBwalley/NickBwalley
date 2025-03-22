@@ -2,13 +2,13 @@
 
 <hr/>
 
-I'm [Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269), an AI Engineer specializing in Generative Artificial Intelligence, Machine Learning, and Large Language Models (LLMs). My expertise lies in leveraging cutting-edge AI technologies such as transformers, RAGs (Retrieval-Augmented Generation), and open-source models on Hugging Face to build intelligent solutions that address complex business challenges.
+I'm **[Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269)**, an **AI Engineer** specializing in `Generative Artificial Intelligence`, `Machine Learning`, and `Large Language Models (LLMs)`. My expertise lies in leveraging cutting-edge AI technologies such as `transformers`, `RAGs (Retrieval-Augmented Generation)`, and `open-source models` on `Hugging Face` to **build intelligent solutions** that **address complex business challenges**.
 
 I specialize in fine-tuning models to solve specific business needs, ensuring that AI solutions are impactful and aligned with practical objectives. Whether it's developing intelligent chatbots, enhancing data retrieval systems, or building customized machine learning pipelines, my focus is on creating innovative solutions that drive meaningful outcomes.
 
-Although my primary focus is now in AI engineering, I also have a strong background as a Full Stack {M.E.R.N.} Software Engineer with experience in building full-stack applications that solve real-world problems.
+Although my primary focus is now in AI engineering, I **also** have a **strong background as a Full Stack {M.E.R.N.} Software Engineer** with **experience in building full-stack applications** that solve real-world problems.
 
-I am committed to continuous learning, collaboration, and contributing to open-source projects. Feel free to explore my GitHub portfolio, which showcases my journey and ongoing work. I'm always excited to connect with like-minded individuals, exchange ideas, and explore new opportunities to build transformative solutions.
+I am **committed** to **continuous learning, collaboration, and contributing** to **open-source projects**. Feel free to explore my GitHub portfolio, which showcases my journey and ongoing work. I'm always excited to connect with like-minded individuals, exchange ideas, and explore new opportunities to build transformative solutions.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
