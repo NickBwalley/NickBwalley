@@ -2,7 +2,7 @@
 
 <hr/>
 
-I'm **[Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269)**, an **AI / LLM Engineer** specializing in `Generative Artificial Intelligence`, `Deep Learning`, `Machine Learning`, and `Large Language Models (LLMs)`. My expertise lies in leveraging cutting-edge AI technologies such as `NLPs( Natural Language Processing)`,`transformers`, `RAGs (Retrieval-Augmented Generation)`, `open-source models` on `Hugging Face` and `MCP (Model Context Protocols)` to **build custom intelligent A.I solutions** that **address complex business challenges**.
+I'm **[Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269)**, an **AI / LLM Engineer** specializing in `Generative Artificial Intelligence`, `Deep Learning`, `Machine Learning`, and `Large Language Models (LLMs)`. My expertise lies in leveraging cutting-edge AI technologies such as `NLPs (Natural Language Processing)`,`transformers`, `RAGs (Retrieval-Augmented Generation)`, `open-source models` on `Hugging Face` and `MCP (Model Context Protocols)` to **build custom intelligent A.I solutions** that **address complex business challenges**.
 
 I'm a specialist in creating Agentic A.I. Solutions for any use-case and using MCP Servers to drive automation of tasks in diverse domains. I also fine-tune both Frontier and Open-Source Models to solve specific business needs, ensuring that AI solutions are impactful and aligned with practical objectives. Whether it's developing intelligent chatbots, enhancing data retrieval systems, or building customized machine learning pipelines, my focus is on creating innovative solutions that drive meaningful outcomes.
 
