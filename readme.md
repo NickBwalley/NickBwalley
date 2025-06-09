@@ -12,16 +12,13 @@ I am **committed** to **continuous learning, collaboration, and contributing** t
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-<p align="left"> 👨‍🎓 Graduate of the Bachelor's in Business and Information Technology (BBIT) at Strathmore University (First Class Honors). <p> 💼 How to reach me (via e-mail): <a href="mailto:nickbiiybwalley@gmail.com">nickbiiybwalley@gmail.com</a> | <a href="mailto:nickbwalley@gmail.com">nickbwalley@gmail.com</a> <p> 🎯 Goals: Leverage A.I. to enhance productivity, improve and automate business processes. </p> <p> 👨‍💻 Insanely Skilled Typist: (120+WPM on average) </p> <p> ⚡ Fun fact about me: I am a Polyglot 🗣 Fluent in (English, Swahili, French) and currently learning Swedish. </p> 🏋 I'm a Professional Fitness Coach.  <p/> My Youtube Channel: https://www.youtube.com/@NickBwalley Subscribe.😉😉 🙏 <br/> My LinkedIn: https://www.linkedin.com/in/nick-bwalley-49220a269/ <br/> My Instagram Page: https://www.instagram.com/nickbwalley/ Follow me. 🥹
+<p align="left"> 👨‍🎓 Graduate of the Bachelor's in Business and Information Technology (BBIT) at Strathmore University (First Class Honors). <p> 💼 How to reach me (via e-mail): <a href="mailto:nickbiiybwalley@gmail.com">nickbiiybwalley@gmail.com</a> | <a href="mailto:nickbwalley@gmail.com">nickbwalley@gmail.com</a> <p> 👨‍💻 Insanely Skilled Typist: (120+WPM on average) </p> <p> ⚡ Fun fact about me: I am a Polyglot 🗣 Fluent in (English, Swahili, French) and a beginner in Spanish and Swedish. </p> 🏋 I'm a Professional Fitness Coach.  <p/> My Youtube Channel: https://www.youtube.com/@NickBwalley Subscribe.😉😉 🙏 <br/> My LinkedIn: https://www.linkedin.com/in/nick-bwalley-49220a269/ <br/> My Instagram Page: https://www.instagram.com/nickbwalley/ Follow me. 🥹
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nick-bwalley-49220a269" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.twitter.com/@NickBwalley">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="tiktok logo" />
   </a>
   <a href="https://www.instagram.com/nickbwalley/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
@@ -33,7 +30,7 @@ I am **committed** to **continuous learning, collaboration, and contributing** t
   
 <br/>
   
-## Technologies I have used:
+## My Tech Stack Expertise:
 
 ### FRONTEND
 
