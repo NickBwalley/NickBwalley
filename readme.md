@@ -1,9 +1,5 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<hr/>
-
-Here’s a refined and more compelling version of your GitHub profile bio—well-written, structured, and clear, with a flowing narrative tone while keeping it professional and enticing:
-
 I'm Nick Bwalley, a Software Engineer transitioning into AI and Large Language Model (LLM) Engineering. With 4 years of experience, I focus on developing interactive web solutions powered by AI to automate repetitive tasks and boost business growth.
 
 I specialize in Agentic AI, AI Agents, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP). My skills include fine-tuning frontier open-source models and employing advanced prompt engineering to deliver tailored AI tools aligned with business goals.
