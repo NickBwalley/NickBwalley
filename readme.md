@@ -4,7 +4,7 @@ I'm Nick Bwalley, a Software Engineer transitioning into AI and Large Language M
 
 I am adept in creating Agentic AI workflows, AI Agents, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) tailored for specific business needs. My skills also include fine-tuning frontier models, open-source models and using advanced prompt engineering techniques to deliver quality work output. 
 
-My extensive background as a Full Stack MERN Developer equips me to create practical, intelligent robust, and scalable web applications.
+My extensive background as a Full Stack MERN Developer equips me to create practical, intelligent, robust, and scalable web applications.
 
 I'm always open to collaboration and exploring innovative projects. Let’s connect and create impactful solutions together!
 
