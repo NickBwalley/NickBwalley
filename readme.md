@@ -2,13 +2,15 @@
 
 <hr/>
 
-I'm **[Nick Bwalley](https://www.linkedin.com/in/nick-bwalley-49220a269)**, an **AI / LLM Engineer** specializing in `Generative Artificial Intelligence`, `Agentic AI`,  `AI-Agents`, `Deep Learning`, `Machine Learning`, and `Large Language Models (LLMs)`. My expertise lies in leveraging cutting-edge AI technologies such as `NLPs (Natural Language Processing)`,`transformers`, `RAGs (Retrieval-Augmented Generation)`, `open-source models` on `Hugging Face` and `MCP (Model Context Protocols)` to **build custom intelligent A.I solutions** that **address complex business challenges**.
+Here’s a refined and more compelling version of your GitHub profile bio—well-written, structured, and clear, with a flowing narrative tone while keeping it professional and enticing:
 
-I'm a specialist in creating Agentic A.I. Solutions for any use-case and using MCP Servers to drive automation of tasks in diverse domains. I also fine-tune both Frontier and Open-Source Models to solve specific business needs, ensuring that AI solutions are impactful and aligned with practical objectives. Whether it's developing intelligent chatbots, enhancing data retrieval systems, or building customized machine learning pipelines, my focus is on creating innovative solutions that drive meaningful outcomes.
+I'm Nick Bwalley, a Software Engineer transitioning into AI and Large Language Model (LLM) Engineering. With 4 years of experience, I focus on developing interactive web solutions powered by AI to automate repetitive tasks and boost business growth.
 
-In addition, I **also** have a **strong background as a Full Stack {M.E.R.N.} Software Engineer** with **experience in building full-stack applications** that solve real-world problems.
+I specialize in Agentic AI, AI Agents, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP). My skills include fine-tuning frontier open-source models and employing advanced prompt engineering to deliver tailored AI tools aligned with business goals.
 
-I am **committed** to **continuous learning, collaboration, and contributing** to **open-source projects**. Feel free to explore my GitHub portfolio, which showcases my journey and ongoing work. I'm always excited to connect with like-minded individuals, exchange ideas, and explore new opportunities to build transformative solutions.
+My extensive background as a Full Stack MERN Developer equips me to create practical, robust, and scalable web applications.
+
+I'm always open to collaboration and exploring innovative projects. Let’s connect and create impactful solutions together!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
