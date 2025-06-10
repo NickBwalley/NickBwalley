@@ -31,62 +31,34 @@ I am **committed** to **continuous learning, collaboration, and contributing** t
 <br/>
   
 ## My Tech Stack Expertise:
-
-### FRONTEND
-
 <div>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind logo" width="6%" title='Tailwindcss'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript logo" width="4%" title='JavaScript'/>
-    <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="react logo" width="4%" title='React'/>
+  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="react logo" width="4%" title='React'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="redux logo" width="4%" title='Redux'/>
-  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass logo" width="4%" title='Sass'/>
-  
-<div> 
-
-### BACKEND
-
-<div>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node logo" width="6%" title='Nodejs'/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="express logo" width="6%" title='ExpressJS' />
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python logo" width="6%" title='Python'/>
-  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java logo" width="6%" title='JAVA'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP logo" width="6%" title='PHP'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="Laravel logo" width="6%" title='Laravel'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker logo" width="6%" title='Docker'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman logo" width="6%" title='Postman'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="cpp logo" width="6%" title='cpp'/>
-</div>
-
-### DATABASES
-
-<div>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="mysql logo" width="6%" title='mysql'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB logo" width="6%" title='MongoDB'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="Posgresql logo" width="6%" title='PostgreSQL'/>
-  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="oracle" width="6%" title='oracle'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite logo" width="6%" title='sqlite'/>
-</div>
-  
-### OTHER TOOLS
-
-<div>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="jupyter notebook" width="6%" title='notebook'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="aws logo" width="6%" title='aws'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="git logo" width="6%" title='git'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub logo" width="6%" title='GitHub'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker logo" width="6%" title='Docker'/>
-  <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="K8S logo" width="6%" title='Kubernetes'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux logo" width="6%" title='Linux'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim logo" width="6%" title='Vim'/>
   <img src ="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code" width="6%" title='VSCode'/>
-  
-  
 </div>
-
-<br/>
-
 
 <p align="center">
   <a href="https://github.com/NickBwalley/github-readme-streak-stats">
