@@ -1,6 +1,6 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Nick Bwalley, a Software Engineer transitioning into AI and Large Language Model (LLM) Engineering, with 4 years of experience. I develop interactive and scalable web solutions powered by AI to automate repetitive tasks and help the business focus on other vital aspect to drive business revenue and growth.
+I'm Nick Bwalley, an AI / LLM Engineer with a strong background as a Full Stack Software Engineer with 5 years of experience. I develop interactive and scalable web solutions powered by AI to automate repetitive tasks and help the business focus on other vital aspect to drive business revenue and growth.
 
 I am adept in creating Agentic AI workflows, AI Agents, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) tailored for specific business needs. My skills also include fine-tuning frontier models, open-source models and using advanced prompt engineering techniques to deliver quality work output. 
 
