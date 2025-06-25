@@ -2,7 +2,7 @@
 
 I'm Nick Bwalley, an AI / LLM Engineer with a strong background as a Full Stack Software Engineer with 5 years of experience. I develop interactive and scalable web solutions powered by AI to automate repetitive tasks and help the business focus on other vital aspect to drive business revenue and growth.
 
-I am adept in creating Agentic AI workflows, AI Agents, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) tailored for specific business needs. My skills also include fine-tuning frontier models, open-source models and using advanced prompt engineering techniques to deliver quality work output. 
+I am adept in coding with Python and JavaScript. I enjoy creating AI Agents, Agentic AI workflows, Retrieval-Augmented Generation (RAG), and harnessing the power of Model Context Protocol (MCP) to address both personal and business. My skills also include crafting compelling prompts for (Large Language Models)LLMs to deliver quality work output with minimal time.
 
 My extensive background as a Full Stack MERN Developer equips me to create practical, intelligent, robust, and scalable web applications.
 
@@ -10,7 +10,7 @@ I'm always open to collaboration and exploring innovative projects. Let’s conn
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-<p align="left"> 👨‍🎓 Bachelor's Degree in Business and Information Technology (BBIT) at Strathmore University (First Class Honors). <p> 💼 How to reach me: <a href="mailto:nickbiiybwalley@gmail.com">nickbiiybwalley@gmail.com</a> or  Via LinkedIn: https://www.linkedin.com/in/nick-bwalley-49220a269/ <p> ⚡ Fun fact about me: I am a Polyglot 🗣 Fluent in (English, Swahili, French) and actively learning Spanish and Swedish. </p> <p> 👨‍💻 World-class Typist: (120+WPM on average) </p>  🏋 I'm a Professional Fitness Coach. DM for Services 😉😉  <p/> My Youtube Channel: https://www.youtube.com/@NickBwalley Subscribe.🙏 <br/> My LinkedIn: https://www.linkedin.com/in/nick-bwalley-49220a269/ <br/> My Instagram Page: https://www.instagram.com/nickbwalley/ Follow me. 🥹
+<p align="left"> 👨‍🎓 Bachelor's Degree in Business and Information Technology (BBIT) at Strathmore University (First Class Honours). <p> 💼 How to reach me: <a href="mailto:nickbiiybwalley@gmail.com">nickbiiybwalley@gmail.com</a> or  Via LinkedIn: https://www.linkedin.com/in/nick-bwalley-49220a269/ <p> ⚡ Fun fact about me: I am a Polyglot 🗣 Fluent in (English, Swahili, French) and actively learning Spanish and Swedish. </p> <p> 👨‍💻 World-class Typist: (120+WPM on average) </p>  🏋 I'm a Professional Fitness Coach. DM for Services 😉😉  <p/> My Youtube Channel: https://www.youtube.com/@NickBwalley Subscribe.🙏 <br/> My LinkedIn: https://www.linkedin.com/in/nick-bwalley-49220a269/ <br/> My Instagram Page: https://www.instagram.com/nickbwalley/ Follow me. 🥹
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
