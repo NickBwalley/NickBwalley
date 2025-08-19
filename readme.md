@@ -1,12 +1,42 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Nick Bwalley, an AI / LLM Engineer with a strong background as a Full Stack Software Engineer with 5 years of experience. I develop interactive and scalable web solutions powered by AI to automate repetitive tasks and help the business focus on other vital aspect to drive business revenue and growth.
+# 👋 Hi, I’m Nick Bwalley  
 
-I am adept in coding with Python and JavaScript. I enjoy creating AI Agents, Agentic AI workflows, Retrieval-Augmented Generation (RAG), and harnessing the power of Model Context Protocol (MCP) to address both personal and business. My skills also include crafting compelling prompts for (Large Language Models)LLMs to deliver quality work output with minimal time.
+I’m a **Full-Stack Software Engineer turned AI Engineer** with **5+ years of experience** building intelligent and scalable solutions. My focus is on creating **AI-powered applications** and **custom automation tools** that streamline operations, cut inefficiencies, and enable organizations to focus on growth and revenue.  
 
-My extensive background as a Full Stack MERN Developer equips me to create practical, intelligent, robust, and scalable web applications.
+---
 
-I'm always open to collaboration and exploring innovative projects. Let’s connect and create impactful solutions together!
+## 🤖 AI Engineering  
+I specialize in designing and deploying:  
+- **Model Context Protocol (MCP) Servers**  
+- **Retrieval-Augmented Generation (RAG) Chatbots**  
+- **Agentic Workflows** with tools like *LangChain, LangSmith, LangGraph, CrewAI, Flowise, n8n,* and the **OpenAI Agents SDK**  
+
+---
+
+## 🛠️ Full-Stack Development  
+I build **AI-powered SaaS applications** tailored to solve critical pain points. These applications are designed to accelerate **MRR/ARR growth** and scale seamlessly with business needs.  
+
+---
+
+## ⚡ Automation  
+I create **custom automation solutions** that eliminate repetitive tasks, optimize workflows, and improve efficiency across distributed teams.  
+
+---
+
+## 🌍 Beyond Code  
+- 🌐 Fluent in **English, Swahili, and French** → thrive in multilingual and cross-cultural teams  
+- 🤝 Strong communicator and collaborator → experienced in managing **large GitHub codebases** and working with distributed teams  
+- 🎯 Passionate about turning **AI into practical, revenue-driving business systems**  
+
+---
+
+## 📂 Explore More  
+🔗 **Portfolio:** [nickbwalley.vercel.app](https://nickbwalley.vercel.app)  
+
+---
+
+⭐ *Always learning. Always building. Always shipping impactful AI solutions.*  
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
