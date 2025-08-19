@@ -2,17 +2,19 @@
 
 I’m Nick Bwalley a **Full-Stack Software Engineer turned AI Engineer** with **5+ years of experience** building intelligent and scalable solutions. My focus is on creating **AI-powered SaaS applications** and **custom automation tools** that streamline operations, cut inefficiencies, and enable organizations to focus on growth and revenue.  
 
+## 🛠️ Full-Stack Development  
+- I build **AI-powered SaaS applications** tailored to solve critical pain points. These applications are designed to accelerate **MRR/ARR growth** and scale seamlessly with business needs. 
+- My Tech Stack: **Next.js** *(frontend & Backend)*, **TailwindCSS & shadcn** *(Styling)*, **supabase** *(database)*
+
 ## 🤖 AI Engineering  
 I specialize in designing and deploying:  
-- **Model Context Protocol (MCP) Servers**  
-- **Retrieval-Augmented Generation (RAG) Chatbots**  
-- **Agentic Workflows** with tools like *LangChain, LangSmith, LangGraph, CrewAI, Flowise, n8n,* and the **OpenAI Agents SDK**  
+- **Retrieval-Augmented Generation applications (RAG Chatbots)**  
+- **Model Context Protocol (MCP) Integration** *(client & server)*  
+- **Agentic Workflows** with tools like *LangChain, LangSmith, LangGraph, CrewAI* and the **OpenAI Agents SDK**    
 
-## 🛠️ Full-Stack Development  
-I build **AI-powered SaaS applications** tailored to solve critical pain points. These applications are designed to accelerate **MRR/ARR growth** and scale seamlessly with business needs.  
-
-## ⚡ Automation  
-I create **custom automation solutions** that eliminate repetitive tasks, optimize workflows, and improve efficiency across distributed teams.
+## ⚡ Automation & Tools
+- I create **custom automation solutions** that eliminate repetitive tasks, optimize workflows, and improve efficiency across distributed teams.
+- n8n, Flowise, Zapier, Cursor, Claude Desktop
 
 ## 👨‍🎓 Academics & Socials
 - 👨‍🎓 Bachelor's Degree in Business and Information Technology (BBIT) at Strathmore University (First Class Honours)
