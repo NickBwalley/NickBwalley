@@ -72,13 +72,13 @@ I create **custom automation solutions** that eliminate repetitive tasks, optimi
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/NickBwalley/github-readme-stats">
     <img alt="Nick Bwalley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c"/>
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=NickBwalley&show_icons=true&theme=react&hide_border=false&bg_color=1c041c" alt="Nick Bwalley's GitHub Stats"/>
 </p>
 
