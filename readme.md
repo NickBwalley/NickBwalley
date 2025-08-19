@@ -66,17 +66,11 @@ I create **custom automation solutions** that eliminate repetitive tasks, optimi
 
 ## 📊 My GitHub Stats
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/NickBwalley/github-readme-streak-stats">
     <img alt="Nick Bwalley's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
   </a>
 </p>
-
-<!-- Animated Coding GIF -->
-<p align="right">
-  <img alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300"/>
-</p>
-
 
 <p align="center">
   <a href="https://github.com/NickBwalley/github-readme-stats">
@@ -86,4 +80,9 @@ I create **custom automation solutions** that eliminate repetitive tasks, optimi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NickBwalley&show_icons=true&theme=react&hide_border=false&bg_color=1c041c" alt="Nick Bwalley's GitHub Stats"/>
+</p>
+
+<!-- Animated Coding GIF -->
+<p align="center">
+  <img alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300"/>
 </p>
