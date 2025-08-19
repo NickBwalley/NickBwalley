@@ -40,23 +40,39 @@ I create **custom automation solutions** that eliminate repetitive tasks, optimi
 <br/>
   
 ## My Tech Stack Expertise:
-<div>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next.png" alt="Next.js logo" width="6%" title="Next.js"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind logo" width="6%" title="TailwindCSS"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" alt="Vercel logo" width="6%" title="Vercel"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase logo" width="6%" title="Supabase"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB logo" width="6%" title="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="ExpressJS logo" width="6%" title="ExpressJS"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="ReactJS logo" width="6%" title="ReactJS"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="NodeJS logo" width="6%" title="NodeJS"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cursor.png" alt="Cursor IDE logo" width="6%" title="Cursor"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/resend.png" alt="Resend logo" width="6%" title="Resend"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ai.png" alt="AI SDK logo" width="6%" title="AI SDK"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/openai.png" alt="OpenAI logo" width="6%" title="OpenAI"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/anthropic.png" alt="Anthropic Claude logo" width="6%" title="Anthropic Claude"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker logo" width="6%" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="Postgres logo" width="6%" title="Postgres"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VS Code logo" width="6%" title="VSCode"/>
+<div align="center">
+
+  <!-- 🌐 Frontend -->
+  <h3>🌐 Frontend</h3>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="50" title="Next.js"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" title="React"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" title="TailwindCSS"/>
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="50" title="Vercel"/>
+
+  <!-- ⚙️ Backend -->
+  <h3>⚙️ Backend</h3>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" title="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express/000000" width="50" title="ExpressJS"/>
+
+  <!-- 🗄️ Databases -->
+  <h3>🗄️ Databases</h3>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50" title="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" title="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="50" title="Supabase"/>
+
+  <!-- 🤖 AI & SDKs -->
+  <h3>🤖 AI & SDKs</h3>
+  <img src="https://cdn.simpleicons.org/openai/412991" width="50" title="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/AI--SDK-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
+
+  <!-- 🛠️ Dev Tools -->
+  <h3>🛠️ Dev Tools</h3>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" title="Docker"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" title="VS Code"/>
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Resend-FF4B4B?style=for-the-badge&logo=maildotru&logoColor=white" height="40"/>
+
 </div>
 </br>
 <p align="center">
