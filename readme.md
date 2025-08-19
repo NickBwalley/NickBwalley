@@ -55,33 +55,28 @@ I create **custom automation solutions** that eliminate repetitive tasks, optimi
 
   <!-- 🤖 AI & SDKs -->
   <img src="https://cdn.simpleicons.org/openai/412991" width="50" title="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" title="Docker"/>
   <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logoColor=white" height="40" title="Anthropic Claude"/>
   <img src="https://img.shields.io/badge/AI--SDK-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="40" title="AI SDK"/>
-
   <!-- 🛠️ Dev Tools -->
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" title="Docker"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" title="VS Code"/>
   <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40" title="Cursor IDE"/>
   <img src="https://img.shields.io/badge/Resend-FF4B4B?style=for-the-badge&logo=maildotru&logoColor=white" height="40" title="Resend"/>
 
 </div>
 
----
-
-<!-- Animated Coding GIF -->
-<p align="center">
-  <img alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300"/>
-</p>
-
----
-
 ## 📊 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/NickBwalley/github-readme-streak-stats">
     <img alt="Nick Bwalley's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
   </a>
 </p>
+
+<!-- Animated Coding GIF -->
+<p align="right">
+  <img alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300"/>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/NickBwalley/github-readme-stats">
