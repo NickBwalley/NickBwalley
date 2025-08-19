@@ -35,42 +35,60 @@ I create **custom automation solutions** that eliminate repetitive tasks, optimi
 
 ## 💻 My Tech Stack Expertise
 
-<div align="left">
+<!-- Tech Stack Icons -->
+<div align="center">
+
   <!-- 🌐 Frontend -->
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="50" title="Next.js"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" title="React"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" title="TailwindCSS"/>
   <img src="https://cdn.simpleicons.org/vercel/000000" width="50" title="Vercel"/>
+
   <!-- ⚙️ Backend -->
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" title="Node.js"/>
   <img src="https://cdn.simpleicons.org/express/000000" width="50" title="ExpressJS"/>
+
   <!-- 🗄️ Databases -->
   <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50" title="MongoDB"/>
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" title="PostgreSQL"/>
   <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="50" title="Supabase"/>
+
   <!-- 🤖 AI & SDKs -->
   <img src="https://cdn.simpleicons.org/openai/412991" width="50" title="OpenAI"/>
   <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logoColor=white" height="40" title="Anthropic Claude"/>
   <img src="https://img.shields.io/badge/AI--SDK-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="40" title="AI SDK"/>
+
   <!-- 🛠️ Dev Tools -->
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" title="Docker"/>
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="50" title="VS Code"/>
   <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40" title="Cursor IDE"/>
   <img src="https://img.shields.io/badge/Resend-FF4B4B?style=for-the-badge&logo=maildotru&logoColor=white" height="40" title="Resend"/>
+
 </div>
 
+---
+
 <!-- Animated Coding GIF -->
-<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300" />
+<p align="center">
+  <img alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300"/>
+</p>
+
+---
 
 ## 📊 My GitHub Stats
+
 <p align="center">
   <a href="https://github.com/NickBwalley/github-readme-streak-stats">
     <img alt="Nick Bwalley's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/NickBwalley/github-readme-stats">
     <img alt="Nick Bwalley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c"/>
   </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NickBwalley&show_icons=true&theme=react&hide_border=false&bg_color=1c041c" alt="Nick Bwalley's GitHub Stats"/>
 </p>
