@@ -1,10 +1,6 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-# 👋 Hi, I’m Nick Bwalley  
-
-I’m a **Full-Stack Software Engineer turned AI Engineer** with **5+ years of experience** building intelligent and scalable solutions. My focus is on creating **AI-powered applications** and **custom automation tools** that streamline operations, cut inefficiencies, and enable organizations to focus on growth and revenue.  
-
----
+I’m Nick Bwalley a **Full-Stack Software Engineer turned AI Engineer** with **5+ years of experience** building intelligent and scalable solutions. My focus is on creating **AI-powered SaaS applications** and **custom automation tools** that streamline operations, cut inefficiencies, and enable organizations to focus on growth and revenue.  
 
 ## 🤖 AI Engineering  
 I specialize in designing and deploying:  
@@ -12,35 +8,31 @@ I specialize in designing and deploying:
 - **Retrieval-Augmented Generation (RAG) Chatbots**  
 - **Agentic Workflows** with tools like *LangChain, LangSmith, LangGraph, CrewAI, Flowise, n8n,* and the **OpenAI Agents SDK**  
 
----
-
 ## 🛠️ Full-Stack Development  
 I build **AI-powered SaaS applications** tailored to solve critical pain points. These applications are designed to accelerate **MRR/ARR growth** and scale seamlessly with business needs.  
 
----
-
 ## ⚡ Automation  
-I create **custom automation solutions** that eliminate repetitive tasks, optimize workflows, and improve efficiency across distributed teams.  
+I create **custom automation solutions** that eliminate repetitive tasks, optimize workflows, and improve efficiency across distributed teams.
 
----
+## 👨‍🎓 Academics & Socials
+- 👨‍🎓 Bachelor's Degree in Business and Information Technology (BBIT) at Strathmore University (First Class Honours)
+- 🤙 Via LinkedIn: https://www.linkedin.com/in/nick-bwalley-49220a269/
+- 🤙 Via Email: <a href="mailto:nickbiiybwalley@gmail.com">nickbiiybwalley@gmail.com</a>
 
 ## 🌍 Beyond Code  
 - 🌐 Fluent in **English, Swahili, and French** → thrive in multilingual and cross-cultural teams  
 - 🤝 Strong communicator and collaborator → experienced in managing **large GitHub codebases** and working with distributed teams  
 - 🎯 Passionate about turning **AI into practical, revenue-driving business systems**  
-
----
+- 👨‍💻 Professional Typist: (110+ Words Per Minute (WPM) on average)
+- 🏋 Professional Fitness Coach. Check out my YouTube Channel here: https://www.youtube.com/@NickBwalley Subscribe.🙏
 
 ## 📂 Explore More  
 🔗 **Portfolio:** [nickbwalley.vercel.app](https://nickbwalley.vercel.app)  
-
----
 
 ⭐ *Always learning. Always building. Always shipping impactful AI solutions.*  
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-<p align="left"> 👨‍🎓 Bachelor's Degree in Business and Information Technology (BBIT) at Strathmore University (First Class Honours). <p> 💼 How to reach me: <a href="mailto:nickbiiybwalley@gmail.com">nickbiiybwalley@gmail.com</a> or  Via LinkedIn: https://www.linkedin.com/in/nick-bwalley-49220a269/ <p> ⚡ Fun fact about me: I am a Polyglot 🗣 Fluent in (English, Swahili, French) and actively learning Spanish and Swedish. </p> <p> 👨‍💻 World-class Typist: (120+WPM on average) </p>  🏋 I'm a Professional Fitness Coach. DM for Services 😉😉  <p/> My Youtube Channel: https://www.youtube.com/@NickBwalley Subscribe.🙏 <br/> My LinkedIn: https://www.linkedin.com/in/nick-bwalley-49220a269/ <br/> My Instagram Page: https://www.instagram.com/nickbwalley/ Follow me. 🥹
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
