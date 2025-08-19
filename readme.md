@@ -10,11 +10,11 @@ I’m Nick Bwalley a **Full-Stack Software Engineer turned AI Engineer** with **
 I specialize in designing and deploying:  
 - **Retrieval-Augmented Generation applications (RAG Chatbots)**  
 - **Model Context Protocol (MCP) Integration** *(client & server)*  
-- **Agentic Workflows** with tools like *LangChain, LangSmith, LangGraph, CrewAI* and the **OpenAI Agents SDK**    
+- **Agentic AI Workflows** with tools like *LangChain, LangSmith, LangGraph, CrewAI* and the **OpenAI Agents SDK**    
 
 ## ⚡ Automation & Tools
 - I create **custom automation solutions** that eliminate repetitive tasks, optimize workflows, and improve efficiency across distributed teams.
-- n8n, Flowise, Zapier, Cursor, Claude Desktop
+- Tools I harness: **n8n, Flowise, Zapier, Cursor, Claude Desktop**
 
 ## 👨‍🎓 Academics & Socials
 - 👨‍🎓 Bachelor's Degree in Business and Information Technology (BBIT) at Strathmore University (First Class Honours)
