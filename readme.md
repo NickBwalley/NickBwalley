@@ -4,7 +4,7 @@ I’m Nick Bwalley a **Full-Stack Software Engineer turned AI Engineer** with **
 
 ## 🛠️ Full-Stack Development  
 - I build **AI-powered SaaS applications** tailored to solve critical pain points. These applications are designed to accelerate **MRR/ARR growth** and scale seamlessly with business needs. 
-- My Tech Stack: **Next.js** *(frontend & Backend)*, **TailwindCSS & shadcn** *(Styling)*, **supabase** *(database)*
+- My Tech Stack: **Next.js** *(frontend & Backend)*, **TailwindCSS & shadcn** *(Styling)*, **Supabase** *(DB)*, Drizzle ORM, Clerk. 
 
 ## 🤖 AI Engineering  
 I specialize in designing and deploying:  
