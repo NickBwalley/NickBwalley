@@ -28,7 +28,7 @@ I specialize in designing and deploying:
 - 👨‍💻 Professional Typist: (110+ Words Per Minute (WPM) on average)
 - 🏋 Professional Fitness Coach. Check out my YouTube Channel here: https://www.youtube.com/@NickBwalley Subscribe.🙏
 
-## 📂 Explore More  
+## 🧑🏾‍💻 View My Services  
 🔗 **Portfolio:** [nickbwalley.vercel.app](https://nickbwalley.vercel.app)  
 
 ⭐ *Always learning. Always building. Always shipping impactful AI solutions.*  
