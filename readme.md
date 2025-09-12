@@ -1,6 +1,6 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m Nick Bwalley a **Full-Stack Software Engineer turned AI Engineer** with **6 years of experience** building intelligent and scalable solutions. My focus is on creating **AI-powered SaaS applications** and **custom automation tools** that streamline operations, cut inefficiencies, and enable organizations to focus on growth and revenue.  
+I’m Nick Bwalley an **AI Software Engineer** and an **Automations Expert** with **6 years of experience** building highly intelligent, autonomous and scalable solutions. My focus lies in creating **(SaaS) applications** and **AI Automation Agents** that streamline operations, cut inefficiencies, and enable organizations to focus on growth and revenue.  
 
 ## 🛠️ Full-Stack Development  
 - I build **AI-powered SaaS applications** tailored to solve critical pain points. These applications are designed to accelerate **MRR/ARR growth** and scale seamlessly with business needs. 
