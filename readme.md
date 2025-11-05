@@ -1,17 +1,17 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m **Nick Bwalley** — an **AI Automations Expert** and **Full-Stack Software Engineer** with **6+ years of experience** building intelligent, scalable, and compliant digital systems.  
+I’m **Nick Bwalley**, an **AI Automations Expert** and **Full-Stack Software Engineer** with **6+ years of experience** building intelligent, scalable, and compliant digital systems.  
 
-I specialize in creating **AI Agents and Automation Workflows** that work autonomously — systems that make intelligent, informed decisions, integrate with tools, and free teams from repetitive tasks so they can focus on growth and innovation.  
+I specialize in creating **AI Agents and Automation Workflows** that work autonomously systems that make intelligent, informed decisions, integrate with tools, and free teams from repetitive tasks so they can focus on growth and innovation.  
 
-> 💡 *“You either embrace AI or risk being replaced by it. I choose to harness it — to empower people, automate complexity, and scale businesses intelligently.”*
+> 💡 *“You either embrace AI or risk being replaced by it. I choose to harness it to empower people, automate complexity, and scale businesses intelligently.”*
 
 ## 🧠 AI & Automation Engineering  
 I design and deploy intelligent systems that **transform manual processes into self-operating AI ecosystems**.  
 
 - 🤖 **AI Agents & Agentic Workflows:** LangChain, CrewAI, LangGraph, LangSmith, OpenAI Agents SDK  
-- 🧩 **Retrieval-Augmented Generation (RAG) Chatbots** — context-aware AI assistants built for knowledge-intensive environments  
-- ⚙️ **Low/No-Code Automations:** n8n, Flowise, Zapier, Make.com — crafting fast, flexible, and scalable business workflows  
+- 🧩 **Retrieval-Augmented Generation (RAG) Chatbots:**  context-aware AI assistants built for knowledge-intensive environments  
+- ⚙️ **Low/No-Code Automations:** n8n, Flowise, Zapier, Make.com crafting fast, flexible, and scalable business workflows  
 - ☁️ **Integrations:** Custom APIs, Webhooks, and toolchains that automate everything from lead nurturing to customer support  
 
 ## 🛠️ Full-Stack Development  
