@@ -6,8 +6,6 @@ I specialize in creating **AI Agents and Automation Workflows** that work autono
 
 > 💡 *“You either embrace AI or risk being replaced by it. I choose to harness it — to empower people, automate complexity, and scale businesses intelligently.”*
 
----
-
 ## 🧠 AI & Automation Engineering  
 I design and deploy intelligent systems that **transform manual processes into self-operating AI ecosystems**.  
 
@@ -16,16 +14,12 @@ I design and deploy intelligent systems that **transform manual processes into s
 - ⚙️ **Low/No-Code Automations:** n8n, Flowise, Zapier, Make.com — crafting fast, flexible, and scalable business workflows  
 - ☁️ **Integrations:** Custom APIs, Webhooks, and toolchains that automate everything from lead nurturing to customer support  
 
----
-
 ## 🛠️ Full-Stack Development  
 Before specializing in AI automations, I spent years architecting **SaaS platforms and enterprise-grade applications**.  
 
 - 🧱 **End-to-End Builds:** From system design to deployment, ensuring scalability and security  
 - ⚡ **Focus:** Intelligent SaaS, API-driven systems, automation-first platforms  
 - 🧰 **Tech Stack:** Next.js (frontend + backend), TailwindCSS & shadcn (UI), Supabase, Drizzle ORM, Clerk  
-
----
 
 ## ⚡ Tools of the Trade  
 I leverage both **code-based** and **low/no-code** tools to accelerate development and impact.  
@@ -35,14 +29,10 @@ I leverage both **code-based** and **low/no-code** tools to accelerate developme
 - ☁️ Infrastructure: AWS, Vercel, Docker, CI/CD pipelines  
 - 🧠 Developer Tools: Cursor, GitHub Actions, Resend  
 
----
-
 ## 👨‍🎓 Academics & Socials  
 - 🎓 **BBIT, First Class Honours** — *Strathmore University*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nick-bwalley-49220a269/)  
 - 📧 [nickbiiybwalley@gmail.com](mailto:nickbiiybwalley@gmail.com)
-
----
 
 ## 🌍 Beyond Code  
 - 🌐 Fluent in **English, Swahili, and French** — thrive in global, cross-cultural teams  
@@ -50,8 +40,6 @@ I leverage both **code-based** and **low/no-code** tools to accelerate developme
 - 💬 Advocate for **AI adoption in business operations** — making automation practical and profitable  
 - 👨‍💻 Professional Typist: *120 WPM on average*  
 - 🏋️‍♂️ **Fitness Coach & Creator:** [YouTube Channel](https://www.youtube.com/@NickBwalley)  
-
----
 
 ## 🧩 View My Services  
 🔗 **Portfolio:** [nickbwalley.vercel.app](https://nickbwalley.vercel.app)
@@ -62,7 +50,6 @@ I leverage both **code-based** and **low/no-code** tools to accelerate developme
 
 ## 💻 My Tech Stack Expertise
 
-<!-- Tech Stack Icons -->
 <div align="center">
 
   <!-- 🌐 Frontend -->
@@ -84,7 +71,9 @@ I leverage both **code-based** and **low/no-code** tools to accelerate developme
   <img src="https://cdn.simpleicons.org/openai/412991" width="50" title="OpenAI"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" title="Docker"/>
   <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logoColor=white" height="40" title="Anthropic Claude"/>
+  <img src="https://img.shields.io/badge/LangChain-0E76A8?style=for-the-badge&logo=python&logoColor=white" height="40" title="LangChain"/>
   <img src="https://img.shields.io/badge/AI--SDK-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="40" title="AI SDK"/>
+
   <!-- 🛠️ Dev Tools -->
   <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40" title="Cursor IDE"/>
   <img src="https://img.shields.io/badge/Resend-FF4B4B?style=for-the-badge&logo=maildotru&logoColor=white" height="40" title="Resend"/>
