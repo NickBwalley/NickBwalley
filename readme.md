@@ -31,7 +31,7 @@ I leverage both **code-based** and **low/no-code** tools to accelerate developme
 
 ## 👨‍🎓 Academics & Socials  
 - 🎓 **BBIT, First Class Honours** — *Strathmore University*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nick-bwalley-49220a269/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nickbwalley)  
 - 📧 [nickbiiybwalley@gmail.com](mailto:nickbiiybwalley@gmail.com)
 
 ## 🌍 Beyond Code  
