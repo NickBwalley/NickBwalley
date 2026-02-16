@@ -2,7 +2,7 @@
 
 I’m Nick Bwalley, an AI Engineer specializing in building AI agents, retrieval-augmented generation (RAG) systems, and automated workflows that help organizations streamline operations, reduce manual effort, and scale decision-making with intelligence. <br><br>
 Over the past 6 years, I’ve build autonomous solutions that integrate with real-world enterprise tools and CRMs to help reduce manual work, and improve operational efficiency. <br><br>
-Having worked as a Software Engineer for 5 years developing scalable SaaS and enterprise systems, I founded Agentible, a company that partners with B2B SaaS organizations to deliver AI-driven SDR and RevOps automation for both SMB and enterprise environments. Follow our pages below to get more updates.
+With 5 years of experience as a Software Engineer building scalable SaaS and enterprise-grade systems, I founded [Agentible](https://agentible.dev) to help B2B SaaS organizations accelerate revenue through AI-driven SDR and RevOps automation across both SMB and enterprise segments. Follow our pages below for ongoing insights and updates.
 
 ## 🏢 My Company
 🔗 Check out our **Company Website:** [agentible.dev](https://agentible.dev) <br>
