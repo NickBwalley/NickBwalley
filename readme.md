@@ -3,7 +3,9 @@
 I’m **Nick Bwalley**, a Software Engineer with 5 years of experience building scalable SaaS and enterprise systems, and an AI Engineer with 3 years focused on designing AI agents, retrieval-augmented applications, and workflow automation. I develop intelligent, autonomous systems that integrate with business tools, eliminate repetitive processes, and enable teams to operate more efficiently using modern full-stack architectures, low/no-code automation platforms, and production-ready AI infrastructure.
 
 ## 🏢 My Company
-🔗 **Company Page:** [agentible.dev](https://agentible.dev)
+🔗 Check out our **Company Website:** [agentible.dev](https://agentible.dev)
+👉 Follow our **Company Page**: [agentible.dev](https://linkedin.com/company/agentible) 
+😊 Follow my **LinkedIn Page**: [nickbwalley](https://linkedin.com/in/nickbwalley)
 
 ## 🧩 View My Services  
 🔗 **Portfolio:** [nickbwalley.vercel.app](https://nickbwalley.vercel.app)
