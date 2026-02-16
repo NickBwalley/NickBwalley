@@ -1,6 +1,6 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m **Nick Bwalley**, a Software Engineer with 5 years of experience building scalable SaaS and enterprise systems, and an AI Engineer with 3 years focused on designing AI agents, retrieval-augmented applications, and workflow automation. I develop intelligent, autonomous systems that integrate with business tools, eliminate repetitive processes, and enable teams to operate more efficiently using modern full-stack architectures, low/no-code automation platforms, and production-ready AI infrastructure.
+I’m Nick Bwalley, an AI Engineer specializing in AI agents, retrieval-augmented generation (RAG)systems, and workflow automation that power intelligent, self-operating business processes. Over the past 6 years, I’ve focused on building autonomous solutions that integrate with real-world tools, reduce manual work, and improve operational efficiency. Having worked as a Software Engineer for 5 years developing scalable SaaS and enterprise systems, I founded Agentible, a company that partners with B2B SaaS organizations to deliver AI-driven SDR and RevOps automation for both SMB and enterprise environments. Follow our pages below to get more updates.
 
 ## 🏢 My Company
 🔗 Check out our **Company Website:** [agentible.dev](https://agentible.dev)
@@ -10,7 +10,7 @@ I’m **Nick Bwalley**, a Software Engineer with 5 years of experience building 
 ## 🧩 View My Services  
 🔗 **Portfolio:** [nickbwalley.vercel.app](https://nickbwalley.vercel.app)
 
-⭐ *Always learning. Always building. Always shipping intelligent automation solutions.*  
+⭐ *Always learning. Always providing value. Always shipping intelligent AI solutions to address complex business needs.*  
 
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
 
