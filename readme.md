@@ -9,7 +9,7 @@ With 5 years of experience as a Software Engineer building scalable SaaS and ent
 👉 Follow our **Company Page**: [agentible.dev](https://linkedin.com/company/agentible) <br> 
 😊 Follow my **LinkedIn Page**: [nickbwalley](https://linkedin.com/in/nickbwalley)
 
-## 🧩 View My Services  
+## 🧩 My Personal Portfolio Website
 🔗 **Portfolio:** [nickbwalley.vercel.app](https://nickbwalley.vercel.app)
 
 ⭐ *Always learning. Always providing value. Always shipping intelligent AI solutions to address complex business needs.*  
