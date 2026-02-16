@@ -1,10 +1,12 @@
 # Hello Folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m Nick Bwalley, an AI Engineer specializing in building AI agents, retrieval-augmented generation (RAG) systems, and automated workflows that help organizations streamline operations, reduce manual effort, and scale decision-making with intelligence. Over the past 6 years, I’ve focused on building autonomous solutions that integrate with real-world tools, reduce manual work, and improve operational efficiency. Having worked as a Software Engineer for 5 years developing scalable SaaS and enterprise systems, I founded Agentible, a company that partners with B2B SaaS organizations to deliver AI-driven SDR and RevOps automation for both SMB and enterprise environments. Follow our pages below to get more updates.
+I’m Nick Bwalley, an AI Engineer specializing in building AI agents, retrieval-augmented generation (RAG) systems, and automated workflows that help organizations streamline operations, reduce manual effort, and scale decision-making with intelligence. <br>
+Over the past 6 years, I’ve build autonomous solutions that integrate with real-world enterprise tools and CRMs to help reduce manual work, and improve operational efficiency. 
+Having worked as a Software Engineer for 5 years developing scalable SaaS and enterprise systems, I founded Agentible, a company that partners with B2B SaaS organizations to deliver AI-driven SDR and RevOps automation for both SMB and enterprise environments. Follow our pages below to get more updates.
 
 ## 🏢 My Company
-🔗 Check out our **Company Website:** [agentible.dev](https://agentible.dev)
-👉 Follow our **Company Page**: [agentible.dev](https://linkedin.com/company/agentible) 
+🔗 Check out our **Company Website:** [agentible.dev](https://agentible.dev) <br>
+👉 Follow our **Company Page**: [agentible.dev](https://linkedin.com/company/agentible) <br> 
 😊 Follow my **LinkedIn Page**: [nickbwalley](https://linkedin.com/in/nickbwalley)
 
 ## 🧩 View My Services  
