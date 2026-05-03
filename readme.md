@@ -71,8 +71,6 @@ Built for B2B SaaS companies across SMB and enterprise segments who want to acce
 
 ---
 ![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
----
-## 📈 GitHub Stats
 
 ## 📊 My GitHub Stats
 
