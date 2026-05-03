@@ -20,15 +20,15 @@
 
 ## 👋 Who Am I
 
-I'm **Nick Bwalley** — an Agentic AI Engineer and founder with a decade of experience building software and AI systems that don't just assist people, they *replace entire workflows*.
+I'm **Nick Bwalley**, an Agentic AI Engineer and founder with a decade of experience building software and AI systems that don't just assist people, they *replace entire workflows*.
 
-I help **B2B SaaS companies scale without hiring more staff** by deploying intelligent AI agents that autonomously handle sales outreach, lead qualification, meeting booking, and RevOps operations — 24/7, no supervision required.
+I help **B2B SaaS companies scale without hiring more staff** by deploying intelligent AI agents that autonomously handle sales outreach, lead qualification, meeting booking, and RevOps operations 24/7, no supervision required.
 
 > *The best systems work hardest when you're not watching.*
 
 ---
 
-## 🏢 Agentible — What I'm Building
+## 🏢 Agentible - What I'm Building
 
 **[Agentible](https://agentible.dev)** is an AI-powered SDR platform that autonomously:
 
@@ -70,13 +70,24 @@ Built for B2B SaaS companies across SMB and enterprise segments who want to acce
 </div>
 
 ---
-
+![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
+---
 ## 📈 GitHub Stats
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/NickBwalley/github-readme-streak-stats">
+    <img alt="Nick Bwalley's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
+  </a>
+</p>
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickbwalley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=10b981&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickbwalley&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+  <a href="https://github.com/NickBwalley/github-readme-stats">
+    <img alt="Nick Bwalley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" height="200"/>
+  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NickBwalley&show_icons=true&theme=react&hide_border=false&bg_color=1c041c" alt="Nick Bwalley's GitHub Stats" height="200"/>
 
 </div>
 
@@ -84,7 +95,7 @@ Built for B2B SaaS companies across SMB and enterprise segments who want to acce
 
 ## 🤝 Let's Connect
 
-If you're a SaaS founder looking to scale revenue without scaling headcount — or a developer curious about agentic AI systems — let's talk.
+If you're a SaaS founder looking to scale revenue without scaling headcount or a developer curious about agentic AI systems let's talk.
 
 <div align="center">
 
@@ -104,59 +115,6 @@ If you're a SaaS founder looking to scale revenue without scaling headcount — 
 
 </div>
 
-
-
-
-![](https://komarev.com/ghpvc/?username=NickBwalley&color=blue)
-
-## 💻 My Tech Stack Expertise
-
-<div align="center">
-
-  <!-- 🌐 Frontend -->
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="50" title="Next.js"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" title="React"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" title="TailwindCSS"/>
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="50" title="Vercel"/>
-
-  <!-- ⚙️ Backend -->
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" title="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/000000" width="50" title="ExpressJS"/>
-
-  <!-- 🗄️ Databases -->
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50" title="MongoDB"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="50" title="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="50" title="Supabase"/>
-
-  <!-- 🤖 AI & SDKs -->
-  <img src="https://cdn.simpleicons.org/openai/412991" width="50" title="OpenAI"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" title="Docker"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logoColor=white" height="40" title="Anthropic Claude"/>
-  <img src="https://img.shields.io/badge/LangChain-0E76A8?style=for-the-badge&logo=python&logoColor=white" height="40" title="LangChain"/>
-  <img src="https://img.shields.io/badge/AI--SDK-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" height="40" title="AI SDK"/>
-
-  <!-- 🛠️ Dev Tools -->
-  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40" title="Cursor IDE"/>
-  <img src="https://img.shields.io/badge/Resend-FF4B4B?style=for-the-badge&logo=maildotru&logoColor=white" height="40" title="Resend"/>
-
-</div>
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/NickBwalley/github-readme-streak-stats">
-    <img alt="Nick Bwalley's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NickBwalley&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
-  </a>
-</p>
-<div align="center">
-
-  <a href="https://github.com/NickBwalley/github-readme-stats">
-    <img alt="Nick Bwalley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickBwalley&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=1c041c" height="200"/>
-  </a>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=NickBwalley&show_icons=true&theme=react&hide_border=false&bg_color=1c041c" alt="Nick Bwalley's GitHub Stats" height="200"/>
-
-</div>
 <!-- Animated Coding GIF -->
 <p align="center">
   <img alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300"/>
