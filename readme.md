@@ -35,7 +35,7 @@ I help **B2B SaaS companies scale without hiring more staff** by deploying intel
 - 🎯 Sources and qualifies leads
 - 📧 Executes personalized cold outreach
 - 📅 Books meetings directly into your calendar
-- 📊 Manages your entire top-of-funnel — without a human SDR
+- 📊 Manages your entire top-of-funnel without a human SDR
 
 Built for B2B SaaS companies across SMB and enterprise segments who want to accelerate revenue without growing headcount.
 
