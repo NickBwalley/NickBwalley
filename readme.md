@@ -80,6 +80,7 @@ Built for B2B SaaS companies across SMB and enterprise segments who want to acce
   </a>
 </p>
 
+---
 ## 🤝 Let's Connect
 
 If you're a SaaS founder looking to scale revenue without scaling headcount or a developer curious about agentic AI systems let's talk.
@@ -92,6 +93,10 @@ If you're a SaaS founder looking to scale revenue without scaling headcount or a
 
 </div>
 
+<!-- Animated Coding GIF -->
+<p align="center">
+  <img alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300"/>
+</p>
 
 <div align="center">
 
@@ -100,8 +105,3 @@ If you're a SaaS founder looking to scale revenue without scaling headcount or a
 *Always learning. Always shipping. Always building agents that work while you sleep.*
 
 </div>
-
-<!-- Animated Coding GIF -->
-<p align="center">
-  <img alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="300"/>
-</p>
